@@ -2,5 +2,4 @@
 - 👀 I’m interested in problem solving, learning new things
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on web dev
-- 📫 my whatsapp no. 8400747177
 - 😄 Pronouns: He
